@@ -1,0 +1,12 @@
+Feature,Standardized coefficient
+budget_variance_pct,0.8895816882902764
+forecast_error_pct,0.7047900788291903
+open_compliance_gaps,0.6858303380844777
+employee_adoption_pct,-0.6756686108960592
+warehouse_productivity_gap_pct,0.6237456313310168
+bias_reports_count,0.5905769283893727
+security_incidents_count,0.5604998777118589
+cloud_downtime_minutes,0.5041541222950316
+integration_defects_count,0.35532363760506064
+training_completion_pct,-0.3276042087247502
+competitor_ai_release_index,0.30134554568166977

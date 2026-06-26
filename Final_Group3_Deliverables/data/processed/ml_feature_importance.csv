@@ -1,0 +1,12 @@
+Feature,Importance
+budget_variance_pct,0.17206407687820277
+forecast_error_pct,0.15978366081458426
+warehouse_productivity_gap_pct,0.13994887950070048
+employee_adoption_pct,0.1356120484036577
+cloud_downtime_minutes,0.10558442265321183
+training_completion_pct,0.07174734903794736
+open_compliance_gaps,0.06652567425049173
+security_incidents_count,0.0439210585860511
+integration_defects_count,0.04114711028518677
+bias_reports_count,0.04059478754790997
+competitor_ai_release_index,0.023070932042056107
